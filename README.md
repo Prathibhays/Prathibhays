@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👩‍🎓I'am currently pursuing my B.Tech degree in PESU(RR)
+👩‍🎓I'am currently pursuing my [CSE]B.Tech degree in PES UNIVERSITY(RR)
 
 
 # 💻 Tech Stack:
